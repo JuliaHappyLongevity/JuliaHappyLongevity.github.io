@@ -43,13 +43,13 @@ content:
         quote: >
           Seeking Data Science Talent & Bioscience researchers for collaboration
         description: |
-          Building a data-driven health optimization platform, uniting science and AI. This AI-powered Longevity Navigation platform integrates biomarkers, genetic data, wearables, and lifestyle factors to provide early health risk detection and personalized recommendations.
+          Building a data-driven health optimisation platform, uniting science and AI. This AI-powered Longevity Navigation platform integrates biomarkers, genetic data, wearables, body composition scans, family health history and lifestyle factors to provide early health risk detection and personalised recommendations.
           
           **Our Approach:**
           - Scientific Validation - Rigorous frameworks based on medical research
           - AI-Powered Analysis - Multi-LLM architecture for reliable health insights
           - Data Integration & Security - Creating a unified structure for diverse health data sources with privacy and security by design
-          - Personalized Recommendations - Tailored health optimization strategies
+          - Personalised Recommendations - Tailored health optimisation strategies
           - Early Risk Detection - Identifying patterns before they become problems
           
       - layout: left
@@ -75,10 +75,10 @@ content:
         caption: July 2024 - Present
         link: https://happylongevity.life
         description: |
-          Building a data-driven health optimization platform, integrating biomarkers, wearables, and AI. Developing scientific validation frameworks, focusing on longevity and preventive healthcare.
+          Building a data-driven health optimisation platform, uniting science and AI. Developing scientific validation frameworks, focusing on longevity and preventive healthcare.
           
-          - Implementing AI-driven health analysis and personalized recommendations
-          - Creating data integration frameworks for biomarkers and wearable devices
+          - Implementing AI-driven health analysis and personalised recommendations
+          - Creating data integration frameworks - security and privacy by design 
           - Developing digital marketing, SEO strategy, and online community
           - Building scientific validation protocols with multi-LLM architecture
           
@@ -183,11 +183,11 @@ content:
 about_title: About Me
 about_profile_image: /images/JP_founder.jpeg
 about_content: | 
-  Dedicated to democratizing health optimization, Julia focuses on transforming complex health data into clear, actionable insights through AI technology and scientific frameworks.
+  Dedicated to democratising health optimisation, Julia focuses on transforming complex health data into clear, actionable insights through AI technology and scientific frameworks.
   
-  Drawing on decades of experience in digital transformation and strategic business execution, combined with an extensive personal health optimization journey, she works to empower everyone to understand their health patterns and take early action. 
+  Drawing on decades of experience in digital transformation and strategic business execution, combined with an extensive personal health optimisation journey, she works to empower everyone to understand their health patterns and take early action. 
   
-  Through HappyLongevity, she aims to deliver AI-enabled, data-driven insights and practical solutions that make preventive health optimization accessible and understandable for all - because staying healthy shouldn't require a medical degree.
+  Through HappyLongevity, she aims to deliver AI-enabled, data-driven insights and practical solutions that make preventive health optimisation accessible and understandable for all - because staying healthy shouldn't require a medical degree.
 
 # Dark Mode (true/false/never)
 darkmode: false
