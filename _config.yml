@@ -20,8 +20,7 @@ baseurl: ""
 remote_theme: sproogen/modern-resume-theme
 
 # Navigation
-header_pages:
-  - projects.md
+header_pages: []
 
 # Social links
 github_username: JuliaHappyLongevity
@@ -31,6 +30,43 @@ linkedin_username: julia-persson-digital-transformation
 
 # Content sections
 content:
+  - title: Current Projects
+    layout: list
+    content:
+      - layout: left
+        title: "HappyLongevity Platform"
+        logo: "/images/HL_logo.png"
+        link: https://happylongevity.life
+        additional_links:
+          - title: JuliaHappyLongevity/JuliaHappyLongevity.github.io
+            icon: fab fa-github
+            url: https://github.com/JuliaHappyLongevity/JuliaHappyLongevity.github.io
+        quote: >
+          Seeking Data Science Talent & Bioscience researchers for collaboration
+        description: |
+          Building a data-driven health optimization platform, uniting science and AI. This AI-powered Longevity Navigation platform integrates biomarkers, genetic data, wearables, and lifestyle factors to provide early health risk detection and personalized recommendations.
+          
+          **Our Approach:**
+          - Scientific Validation - Rigorous frameworks based on medical research
+          - AI-Powered Analysis - Multi-LLM architecture for reliable health insights
+          - Data Integration & Security - Creating a unified structure for diverse health data sources with privacy and security by design
+          - Personalized Recommendations - Tailored health optimization strategies
+          - Early Risk Detection - Identifying patterns before they become problems
+          
+      - layout: left
+        title: Nordic Women's Health Hub
+        quote: >
+          Volunteer Initiative
+        description: |
+          Co-leading Nordic Women's Health Vision 2040, a volunteer initiative to improve women's health outcomes through technology, education, and policy.
+      
+      - layout: left
+        title: ReDI School of Digital Integration
+        quote: >
+          Volunteer Initiative
+        description: |
+          Teaching technology fundamentals to women from foreign backgrounds, empowering them with digital skills for career advancement.
+
   - title: Experience
     layout: list
     content:
@@ -97,44 +133,6 @@ content:
           - Reduced idle cash below 10% during the financial crisis
           - Implemented global treasury systems
           - Standardized financial processes across regions
-          
-  - title: Current Projects
-    layout: list
-    content:
-      - layout: left
-        title: "HappyLongevity Platform"
-        logo: "/images/HL_logo.png"
-        link: https://juliahappylongevity.github.io/project/
-        link_text: View Platform Details
-        additional_links:
-          - title: JuliaHappyLongevity/JuliaHappyLongevity.github.io
-            icon: fab fa-github
-            url: https://github.com/JuliaHappyLongevity/JuliaHappyLongevity.github.io
-        quote: >
-          Seeking Data Science Talent & Bioscience researchers for collaboration
-        description: |
-          Building a data-driven health optimization platform, uniting science and AI. This AI-powered Longevity Navigation platform integrates biomarkers, genetic data, wearables, and lifestyle factors to provide early health risk detection and personalized recommendations.
-          
-          **Our Approach:**
-          - Scientific Validation - Rigorous frameworks based on medical research
-          - AI-Powered Analysis - Multi-LLM architecture for reliable health insights
-          - Data Integration & Security - Creating a unified structure for diverse health data sources with privacy and security by design
-          - Personalized Recommendations - Tailored health optimization strategies
-          - Early Risk Detection - Identifying patterns before they become problems
-          
-      - layout: left
-        title: Nordic Women's Health Hub
-        quote: >
-          Volunteer Initiative
-        description: |
-          Co-leading Nordic Women's Health Vision 2040, a volunteer initiative to improve women's health outcomes through technology, education, and policy.
-      
-      - layout: left
-        title: ReDI School of Digital Integration
-        quote: >
-          Volunteer Initiative
-        description: |
-          Teaching technology fundamentals to women from foreign backgrounds, empowering them with digital skills for career advancement.
 
   - title: Background
     layout: text
@@ -214,5 +212,3 @@ plugins:
 header_links:
   - text: Profile
     url: /
-  - text: Project
-    url: /project/
