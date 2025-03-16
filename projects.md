@@ -1,7 +1,7 @@
 ---
-layout: projects
-title: Projects
-permalink: /projects/
+layout: page
+title: HappyLongevity Project
+permalink: /project/
 ---
 
 # HappyLongevity Platform
