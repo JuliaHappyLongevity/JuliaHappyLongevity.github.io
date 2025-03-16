@@ -19,7 +19,7 @@ experience:
     company: HappyLongevity.Life
     dates: July 2024 - Present
     description: |
-      Building a data-driven health optimisation platform, integrating biomarkers, wearables, and AI. Developing scientific validation frameworks, focusing on longevity and preventive healthcare.
+      Building a data-driven health optimisation platform, uniting science and AI. Developing scientific validation frameworks, focusing on longevity and preventive healthcare.
       
       - Implementing AI-driven health analysis and personalised recommendations
       - Creating data integration frameworks for biomarkers and wearable devices
@@ -73,29 +73,6 @@ experience:
 education:
   - MSc in Business & Economics, Lund University
   - MSc in Business Administration, National Economic University
-
-# Key Skills
-skills:
-  - category: HealthTech & Digital Innovation
-    items:
-      - AI-powered, data-driven health solutions
-      - Preventive healthcare platforms
-      - Health data analytics and integration
-      - Personalised health recommendations
-  
-  - category: Cloud & AI Strategy
-    items:
-      - Cloud infrastructure and architecture
-      - AI implementation and automation
-      - Data-driven decision frameworks
-      - Enterprise digital transformation
-  
-  - category: Business & Leadership
-    items:
-      - Global transformation initiatives
-      - Strategic business execution
-      - Cross-functional team leadership
-      - Change management and implementation
 
 # Certifications
 certifications:
