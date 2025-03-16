@@ -7,16 +7,15 @@ version: 2
 
 # Personal info
 name: Julia Persson
-title: AI & Data Science Leader | HealthTech Innovator | Longevity Platform Founder
+title: Digital Transformation Leader | HealthTech Innovator | AI-Augmented Venture Designer
 email: julia@happylongevity.life
+phone: "+45 5030 3255 | +46 79 078 4001 (WhatsApp)"
+website: https://happylongevity.life
 description: >- 
-  Building an AI-powered health optimization platform seeking exceptional data scientists and ML engineers.
-  We're leveraging advanced analytics, deep learning, and predictive modeling to transform biomarker data
-  into personalized health insights and actionable recommendations. Join our mission to democratize
-  longevity science through innovative data approaches.
-website: https://juliahappylongevity.github.io
-baseurl: ""
+  Digital Transformation Leader and HealthTech Innovator dedicated to democratizing 
+  health optimization through AI and data-driven solutions. Founder of HappyLongevity.
 url: "https://juliahappylongevity.github.io"
+baseurl: ""
 
 # Build settings
 remote_theme: sproogen/modern-resume-theme
@@ -24,9 +23,6 @@ remote_theme: sproogen/modern-resume-theme
 # Social links
 github_username: JuliaHappyLongevity
 linkedin_username: julia-persson-digital-transformation
-
-# Phone info
-phone: "+45 5030 3255 | +46 79 078 4001 (WhatsApp)"
 
 # Content sections
 content:
@@ -196,21 +192,19 @@ content:
 about_title: About Me
 about_profile_image: /images/JP_founder.jpeg
 about_content: | 
-  ## HappyLongevity Mission
-
   **Democratizing health optimization through AI and data-driven insights**
 
-  At HappyLongevity, we're building an AI-powered Longevity Navigation platform that makes preventive health accessible to everyone. By transforming complex health data into clear, actionable insights, we empower individuals to understand their health patterns and take early action - because staying healthy shouldn't require a medical degree.
+  At HappyLongevity, we're building an AI-powered platform that makes preventive health accessible to everyone. By transforming complex health data into clear, actionable insights, we empower individuals to understand their health patterns and take early action - because staying healthy shouldn't require a medical degree.
 
-  ## Our Approach
+  ### Our Approach
 
   - **Scientific Validation** - Rigorous frameworks based on medical research
   - **AI-Powered Analysis** - Multi-LLM architecture for reliable health insights
-  - **Data Integration** - Biomarkers, genetics, wearables, body composition scans, family medical history and lifestyle
+  - **Data Integration** - Biomarkers, genetics, wearables, and lifestyle
   - **Personalized Recommendations** - Tailored health optimization strategies
   - **Early Risk Detection** - Identifying patterns before they become problems
 
-  ## Technology Focus
+  ### Technology Focus
 
   - **Data Integration Frameworks** - Connecting diverse health data sources
   - **AI Model Validation** - Ensuring scientific accuracy in health analysis
