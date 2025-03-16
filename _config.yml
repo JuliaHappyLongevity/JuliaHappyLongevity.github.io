@@ -13,8 +13,8 @@ description: >-
   Digital Transformation Leader and HealthTech Innovator dedicated to democratising 
   health optimisation through AI and data-driven solutions. Founder of HappyLongevity.
 website: https://juliahappylongevity.github.io
-baseurl: "https://www.happylongevity.life/blog" # the subpath of your site, e.g. /blog
-url: "https://JuliaHappyLongevity.github.io" # the base hostname & protocol
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://juliahappylongevity.github.io" # the base hostname & protocol
 
 # Build settings
 remote_theme: sproogen/modern-resume-theme
@@ -77,7 +77,7 @@ content:
           * **Strategic Execution** - Moving seamlessly from vision to implementation, ensuring measurable impact and results
           * **Cross-Functional Leadership** - Building and leading diverse teams across geographical and cultural boundaries
           
-          This balanced approach has enabled me to deliver significant business outcomes through technology-driven transformation—from increasing financial visibility across 120+ countries at Maersk, to driving 360% YoY growth in AWS's Nordic financial services, to leading a $200M+ portfolio of cloud and AI implementations at Accenture.
+          This balanced approach has enabled me to deliver significant business outcomes through technology-driven transformation—from increasing financial visibility across 120+ countries at Maersk, to driving exponential growth in AWS's Nordic financial services, to leading a enterprise-scale portfolio of cloud and AI implementations at Accenture.
           
           My career path evolved naturally from global treasury and financial operations, to digital banking transformation, to cloud and AI implementation leadership—always maintaining a focus on solving intricate business challenges through customer-centric innovation.
 
