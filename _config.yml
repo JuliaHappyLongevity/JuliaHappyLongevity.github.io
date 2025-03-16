@@ -199,15 +199,26 @@ content:
 about_title: About Me
 about_profile_image: /images/JP_founder.jpeg
 about_content: | 
-  Dedicated to democratising health optimisation, I focus on transforming complex health data into clear, actionable
-  insights through AI technology and scientific frameworks.
+  ## HappyLongevity Mission
 
-  Drawing on decades of experience in digital transformation and strategic business execution, combined with an
-  extensive personal health optimisation journey, I work to empower everyone to understand their health patterns and
-  take early action.
+  **Democratizing health optimization through AI and data-driven insights**
 
-  Through HappyLongevity, AI-Powered Longevity Navigation Platform, we aim to deliver AI-enabled, data-driven insights and practical solutions that make preventive
-  health optimisation accessible and understandable for all - because staying healthy shouldn't require a medical degree.
+  At HappyLongevity, we're building an AI-powered Longevity Navigation platform that makes preventive health accessible to everyone. By transforming complex health data into clear, actionable insights, we empower individuals to understand their health patterns and take early action - because staying healthy shouldn't require a medical degree.
+
+  ## Our Approach
+
+  1. **Scientific Validation** - Rigorous frameworks based on medical research
+  2. **AI-Powered Analysis** - Multi-LLM architecture for reliable health insights
+  3. **Data Integration** - Biomarkers, genetics, wearables, body composition scans, family medical history and lifestyle
+  4. **Personalised Recommendations** - Tailored health optimisation strategies
+  5. **Early Risk Detection** - Identifying patterns before they become problems
+
+  ## Technology Focus
+
+  - **Data Integration Frameworks** - Connecting diverse health data sources
+  - **AI Model Validation** - Ensuring scientific accuracy in health analysis
+  - **Cloud-Based Architecture** - Scalable, secure healthcare solutions
+  - **User Experience Design** - Making complex health data understandable
 
 # Dark Mode (true/false/never)
 darkmode: false
