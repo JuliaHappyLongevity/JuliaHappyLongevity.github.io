@@ -1,0 +1,164 @@
+# Site
+repository: JuliaHappyLongevity/JuliaHappyLongevity.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Julia White
+title: Longevity Coach
+email: julia@happylongevity.com
+website: https://juliahappylongevity.github.io
+
+# Social links
+# twitter_username: jekyllrb
+github_username:  JuliaHappyLongevity
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: julia-white
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: GTM-XXXXXXX
+# gtag: UA-XXXXXXXX-X
+# google_analytics: UA-XXXXXXXX-X
+
+# About Section
+about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | 
+  Hi, I'm Julia, a Longevity Coach dedicated to helping people live longer, healthier lives through science-based approaches to diet, exercise, and mental wellbeing.
+  
+  I combine cutting-edge research in longevity science with practical, sustainable lifestyle changes that fit into your unique circumstances. My approach is holistic, focusing on:
+  
+  - Nutrition optimization for cellular health
+  - Exercise protocols for longevity
+  - Stress management and mental resilience
+  - Sleep optimization
+  - Community and social connection
+
+content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: top-middle
+        title: Happy Longevity
+        sub_title: Founder & Lead Coach
+        caption: 2020 - Present
+        description: | 
+          As the founder of Happy Longevity, I develop personalized longevity protocols for clients seeking to extend their healthspan and lifespan. My work includes:
+          
+          - One-on-one coaching for clients worldwide
+          - Creating evidence-based plans tailored to individual genetics, lifestyle, and goals
+          - Hosting workshops and webinars on longevity science and practical applications
+          - Regular client progress assessment using biomarkers and lifestyle metrics
+          - Staying current with emerging research in the longevity field
+
+      - layout: top-middle
+        title: Wellness Center
+        sub_title: Nutrition & Health Coach
+        caption: 2017 - 2020
+        description: | 
+          Led nutrition and health coaching services at a holistic wellness center:
+          
+          - Provided nutritional guidance and meal planning for 30+ regular clients
+          - Collaborated with medical professionals to create integrated health plans
+          - Developed and led group workshops on healthy lifestyle practices
+          - Implemented tracking systems for client health metrics and outcomes
+
+  - title: Education
+    layout: list
+    content:
+      - layout: top-middle
+        title: Certification in Longevity Science
+        sub_title: Longevity Institute
+        caption: 2019
+        description: | 
+          Advanced certification focusing on the biology of aging, interventions to extend healthspan, and practical applications of longevity research.
+
+      - layout: top-middle
+        title: Master's Degree in Nutrition Science
+        sub_title: University of Health Sciences
+        caption: 2015 - 2017
+        description: | 
+          Specialized in nutritional biochemistry and metabolism, with research focus on dietary influences on aging markers.
+          
+      - layout: top-middle
+        title: Bachelor's Degree in Biology
+        sub_title: State University
+        caption: 2011 - 2015
+        description: | 
+          Graduated with honors, focusing on cell biology and human physiology.
+
+  - title: Skills
+    layout: text
+    content: | 
+      **Coaching & Communication**
+      - Personalized protocol development
+      - Clear explanation of complex scientific concepts
+      - Motivational interviewing
+      - Behavior change facilitation
+      - Public speaking and workshop facilitation
+      
+      **Scientific & Technical**
+      - Biomarker analysis and interpretation
+      - Research analysis and practical application
+      - Nutritional assessment
+      - Exercise program design
+      - Sleep optimization strategies
+      
+      **Business & Operations**
+      - Client management and retention
+      - Digital content creation
+      - Remote coaching systems
+      - Program development and implementation
+      - Continuing education and professional development
+
+  - title: Services
+    layout: text
+    content: | 
+      **Comprehensive Longevity Assessment**
+      
+      In-depth evaluation of your current health status, genetic predispositions, lifestyle factors, and longevity goals.
+      
+      **Personalized Longevity Protocol**
+      
+      Custom plan incorporating nutrition, exercise, sleep, stress management, and supplements based on your assessment results.
+      
+      **Ongoing Coaching**
+      
+      Regular sessions to monitor progress, adjust strategies, and provide accountability and support throughout your longevity journey.
+      
+      **Group Workshops**
+      
+      Educational sessions on key longevity topics, providing science-based information and practical implementation strategies.
+
+# Footer
+footer_show_references: true
+references_title: References on request
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
