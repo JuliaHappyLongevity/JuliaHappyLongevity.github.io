@@ -27,8 +27,7 @@ header_pages:
 github_username: JuliaHappyLongevity
 linkedin_username: julia-persson-digital-transformation
 
-# Phone info
-phone: "+45 5030 3255 | +46 79 078 4001 (WhatsApp)"
+# Empty phone to remove display
 
 # Content sections
 content:
@@ -145,9 +144,13 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: right
-        title: Lund University & Kyiv National Economic University
-        sub_title: MSc in Business & Economics, MSc in Business Administration
+      - layout: left
+        title: Lund University 
+        sub_title: MSc in Business & Economics
+      
+      - layout: left
+        title: Kyiv National Economic University
+        sub_title: MSc in Business Administration
       
   - title: Certifications & Languages
     layout: text
@@ -173,8 +176,11 @@ content:
 about_title: About Me
 about_profile_image: /images/JP_founder.jpeg
 about_content: | 
-  Digital Transformation Leader and HealthTech Innovator dedicated to democratizing 
-  health optimization through AI and data-driven solutions. Founder of HappyLongevity.
+  Dedicated to democratizing health optimization, Julia focuses on transforming complex health data into clear, actionable insights through AI technology and scientific frameworks.
+  
+  Drawing on decades of experience in digital transformation and strategic business execution, combined with an extensive personal health optimization journey, she works to empower everyone to understand their health patterns and take early action. 
+  
+  Through HappyLongevity, she delivers AI-enabled, data-driven insights and practical solutions that make preventive health optimization accessible and understandable for all - because staying healthy shouldn't require a medical degree.
 
 # Dark Mode (true/false/never)
 darkmode: false

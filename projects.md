@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HappyLongevity Project
+title: Projects
 permalink: /projects/
 ---
 
@@ -8,11 +8,11 @@ permalink: /projects/
 
 ## Our Mission
 
-At HappyLongevity, we're democratising health optimisation by transforming complex health data into clear, actionable insights through AI technology and scientific frameworks. Our mission is to empower everyone to understand their health patterns and take early action - because staying healthy shouldn't require a medical degree.
+At HappyLongevity, we're democratizing health optimization by transforming complex health data into clear, actionable insights through AI technology and scientific frameworks. Our mission is to empower everyone to understand their health patterns and take early action - because staying healthy shouldn't require a medical degree.
 
 ## Technical Architecture
 
-We're developing a comprehensive health optimisation platform with these key components:
+We're developing a comprehensive health optimization platform with these key components:
 
 ### Data Integration Layer
 - Lab testing results and biomarkers

@@ -71,14 +71,8 @@ experience:
 
 # Education
 education:
-  - degree: MSc in Business & Economics
-    institution: Lund University
-    location: Sweden
-    dates: 
-  - degree: MSc in Business Administration
-    institution: Kyiv National Economic University
-    location: Ukraine
-    dates: 
+  - MSc in Business & Economics, Lund University
+  - MSc in Business Administration, National Economic University
 
 # Key Skills
 skills:

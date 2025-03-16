@@ -108,11 +108,9 @@
 
       <!-- Navigation Menu -->
       <ul class="navigation no-print">
-        {% for page in site.header_pages %}
-          <li>
-            <a href="{{ page | relative_url }}">{{ page | remove: '.md' | remove: '.html' | capitalize }}</a>
-          </li>
-        {% endfor %}
+        <li>
+          <a href="/projects/">Projects</a>
+        </li>
       </ul>
 
       {%- if site.email -%}
