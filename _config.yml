@@ -3,7 +3,7 @@ repository: JuliaHappyLongevity/JuliaHappyLongevity.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 1
 
 # Personal info
 name: Julia Persson
@@ -13,8 +13,8 @@ description: >-
   Digital Transformation Leader and HealthTech Innovator dedicated to democratising 
   health optimisation through AI and data-driven solutions. Founder of HappyLongevity.
 website: https://juliahappylongevity.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://juliahappylongevity.github.io" # the base hostname & protocol
+baseurl: ""
+url: "https://juliahappylongevity.github.io"
 
 # Build settings
 remote_theme: sproogen/modern-resume-theme
@@ -25,7 +25,7 @@ linkedin_username: julia-persson-digital-transformation
 
 # About Section
 about_title: About Me
-about_profile_image: images/JP_founder.jpeg
+about_profile_image: /images/JP_founder.jpeg
 about_content: | 
   Dedicated to democratising health optimisation, I focus on transforming complex health data into clear, actionable
   insights through AI technology and scientific frameworks.
@@ -40,64 +40,6 @@ about_content: |
 # Dark Mode (true/false/never)
 darkmode: false
 
-content:
-  - title: Projects
-    layout: list
-    content:
-      - layout: left
-        title: Happy Longevity
-        link: https://happylongevity.life
-        link_text: HappyLongevity.life
-        additional_links:
-          - title: JuliaHappyLongevity/JuliaHappyLongevity.github.io
-            icon: fab fa-github
-            url: https://github.com/JuliaHappyLongevity/JuliaHappyLongevity.github.io
-        quote: >
-          AI-Powered Longevity Navigation Platform
-        description: |
-          Building an AI-powered platform that transforms complex health data into clear, actionable insights.
-          
-          Our platform uses AI technology and scientific frameworks to make preventive health optimization accessible and understandable for all - because staying healthy shouldn't require a medical degree.
-          
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Digital Transformation Leadership
-        sub_title: Senior Roles in Business Transformation
-        caption: 2004 - Present
-        description: |
-          Across my career spanning global finance, technology leadership, and strategic consulting, I've focused on one consistent mission: transforming complex data into actionable insights that solve real problems for people and organizations.
-          
-          ### My Superpowers:
-          
-          * **Translating Complexity to Clarity** - Transforming technical and operational complexity into clear strategies that stakeholders can understand and embrace
-          * **Bridging Business and Technology** - Fluent in both business value creation and technical implementation, connecting enterprise needs with appropriate technological solutions
-          * **Data-Driven Innovation** - Leveraging AI, automation, and analytics to extract meaningful insights that drive strategic decision-making
-          * **Strategic Execution** - Moving seamlessly from vision to implementation, ensuring measurable impact and results
-          * **Cross-Functional Leadership** - Building and leading diverse teams across geographical and cultural boundaries
-          
-          This balanced approach has enabled me to deliver significant business outcomes through technology-driven transformation—from increasing financial visibility across 120+ countries at Maersk, to driving exponential growth in AWS's Nordic financial services, to leading a enterprise-scale portfolio of cloud and AI implementations at Accenture.
-          
-          My career path evolved naturally from global treasury and financial operations, to digital banking transformation, to cloud and AI implementation leadership—always maintaining a focus on solving intricate business challenges through customer-centric innovation.
-
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Business School
-        sub_title: MBA, Digital Business
-        caption: 2002 - 2004
-        description: |
-          Specialized in digital transformation and technology-driven business models.
-
-      - layout: top-right
-        title: University
-        sub_title: BSc, Computer Science
-        caption: 1998 - 2002
-        description: |
-          Foundation in computing principles, software development, and data structures.
-
 # Footer
 footer_show_references: true
 references_title: References on request
@@ -108,3 +50,4 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-remote-theme

@@ -2,4 +2,13 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-@import 'modern-resume-theme';
+// Base
+@import "base";
+@import "type";
+@import "icons";
+
+// Modern Resume Theme
+@import "modern-resume-theme";
+
+// Dark Mode
+@import "dark";

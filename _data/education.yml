@@ -1,0 +1,11 @@
+- name: Business School
+  dates: 2002 - 2004
+  qualification: MBA, Digital Business
+  description: >
+    Specialized in digital transformation and technology-driven business models.
+
+- name: University
+  dates: 1998 - 2002
+  qualification: BSc, Computer Science
+  description: >
+    Foundation in computing principles, software development, and data structures.
