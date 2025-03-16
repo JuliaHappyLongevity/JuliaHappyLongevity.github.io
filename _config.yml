@@ -102,7 +102,8 @@ content:
     layout: list
     content:
       - layout: left
-        title: <div style="text-align: center; margin-bottom: 15px;"><img src="/images/HL_logo.png" alt="HappyLongevity Logo" style="max-width: 250px;"></div>HappyLongevity Platform
+        title: "HappyLongevity Platform"
+        logo: "/images/HL_logo.png"
         link: https://juliahappylongevity.github.io/project/
         link_text: View Platform Details
         additional_links:
