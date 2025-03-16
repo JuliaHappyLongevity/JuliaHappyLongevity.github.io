@@ -36,10 +36,6 @@ content:
       - layout: left
         title: "HappyLongevity Platform"
         logo: "/images/HL_logo.png"
-        additional_links:
-          - title: JuliaHappyLongevity/JuliaHappyLongevity.github.io
-            icon: fab fa-github
-            url: https://github.com/JuliaHappyLongevity/JuliaHappyLongevity.github.io
         quote: >
           Seeking Data Science Talent & Bioscience researchers for collaboration
         description: |
