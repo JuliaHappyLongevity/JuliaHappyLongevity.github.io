@@ -3,7 +3,7 @@ repository: JuliaHappyLongevity/JuliaHappyLongevity.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 1
+version: 2
 
 # Personal info
 name: Julia Persson
@@ -29,6 +29,171 @@ linkedin_username: julia-persson-digital-transformation
 header_pages:
   - projects.md
   - join-us/index.md
+  - about.md
+
+# Content sections
+content:
+  - title: Projects
+    layout: list
+    content:
+      - layout: left
+        title: HappyLongevity Platform
+        link: https://happylongevity.life
+        link_text: HappyLongevity.life
+        additional_links:
+          - title: JuliaHappyLongevity/JuliaHappyLongevity.github.io
+            icon: fab fa-github
+            url: https://github.com/JuliaHappyLongevity/JuliaHappyLongevity.github.io
+        quote: >
+          AI-Powered Longevity Navigation Platform - Seeking Data Science Talent
+        description: |
+          An AI-powered Longevity Navigation platform integrating biomarkers, genetic data, wearables, and lifestyle factors to provide early health risk detection and personalised recommendations.
+          
+          - Multi-LLM architecture for scientifically validated health analysis
+          - Integration with wearables and lab testing services
+          - Personalised health dashboards and intervention plans
+          - Early risk detection and prevention-focused recommendations
+      
+      - layout: left
+        title: Nordic Women's Health Hub
+        quote: >
+          Volunteer Initiative
+        description: |
+          Co-leading Nordic Women's Health Vision 2040, a volunteer initiative to improve women's health outcomes through technology, education, and policy.
+      
+      - layout: left
+        title: ReDI School of Digital Integration
+        quote: >
+          Volunteer Initiative
+        description: |
+          Teaching technology fundamentals to women from foreign backgrounds, empowering them with digital skills for career advancement.
+          
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: HappyLongevity.Life
+        sub_title: Founder
+        caption: July 2024 - Present
+        link: https://happylongevity.life
+        description: |
+          Building a data-driven health optimisation platform, integrating biomarkers, wearables, and AI. Developing scientific validation frameworks, focusing on longevity and preventive healthcare.
+          
+          - Implementing AI-driven health analysis and personalised recommendations
+          - Creating data integration frameworks for biomarkers and wearable devices
+          - Developing digital marketing, SEO strategy, and online community
+          - Building scientific validation protocols with multi-LLM architecture
+          
+      - layout: right
+        title: Accenture
+        sub_title: Managing Director, Nordic Cloud Financial Services and Health & Public Sector Lead
+        caption: Sep 2021 - March 2025
+        link: https://www.accenture.com
+        description: |
+          Led regulated industries portfolio (Financial Services, Public Sector & Healthcare) managing cloud adoption, digital transformation and large-scale migrations.
+          
+          - Aligned technology strategies with compliance requirements
+          - Managed global engagements across financial services, healthcare, and public sector
+          - Implemented data-driven decision frameworks for enterprise clients
+          
+      - layout: right
+        title: Amazon Web Services (AWS)
+        sub_title: Financial Services Lead
+        caption: Feb 2019 - Aug 2021
+        link: https://aws.amazon.com
+        description: |
+          Achieved expanantial growth in Nordic FS through data-driven strategy and cloud adoption.
+          
+          - Led major cloud transformation projects for banks, insurers, and pension providers
+          - Implemented enterprise-scale data and analytics solutions
+          - Developed scalable architectures for regulated industries
+          - Created strategic technology roadmaps for digital transformation
+          
+      - layout: right
+        title: Swedbank
+        sub_title: Head of Cash Management, Large Corporates & Institutions
+        caption: Apr 2013 - Jan 2019
+        link: https://www.swedbank.com
+        description: |
+          Delivered revenue growth, increasing client engagement through digital innovation.
+          
+          - Led business transformation programmes
+          - Aligned financial services with digital technology
+          - Implemented data-driven client solutions
+          - Optimised operational efficiency through technology
+          
+      - layout: right
+        title: A.P. Moller-Maersk
+        sub_title: Deputy Head of Corporate Treasury
+        caption: Jan 2007 - Mar 2013
+        link: https://www.maersk.com
+        description: |
+          Managed global banking operations across 120+ countries, optimising cash management.
+          
+          - Improved liquidity visibility to 87%
+          - Reduced idle cash below 10% during the financial crisis
+          - Implemented global treasury systems
+          - Standardized financial processes across regions
+
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Lund University
+        sub_title: MSc in Business & Economics
+        caption: Sweden
+      
+      - layout: top-right
+        title: Kyiv National Economic University
+        sub_title: MSc in Business Administration
+        caption: Ukraine
+          
+  - title: Skills
+    layout: text
+    content: |
+      <h4>HealthTech & Digital Innovation</h4>
+      <ul class="skill-list">
+        <li>AI-powered, data-driven health solutions</li>
+        <li>Preventive healthcare platforms</li>
+        <li>Health data analytics and integration</li>
+        <li>Personalised health recommendations</li>
+      </ul>
+      
+      <h4>Cloud & AI Strategy</h4>
+      <ul class="skill-list">
+        <li>Cloud infrastructure and architecture</li>
+        <li>AI implementation and automation</li>
+        <li>Data-driven decision frameworks</li>
+        <li>Enterprise digital transformation</li>
+      </ul>
+      
+      <h4>Business & Leadership</h4>
+      <ul class="skill-list">
+        <li>Global transformation initiatives</li>
+        <li>Strategic business execution</li>
+        <li>Cross-functional team leadership</li>
+        <li>Change management and implementation</li>
+      </ul>
+      
+  - title: Certifications & Languages
+    layout: text
+    content: |
+      <h4>Certifications</h4>
+      <ul class="certification-list">
+        <li>MIT Sloan – Green Cloud & Business Transformation</li>
+        <li>Harvard Business School – Disruptive Strategy & Leadership in Change</li>
+        <li>AWS Cloud Practitioner</li>
+        <li>IMD – Financial Leadership Programme</li>
+      </ul>
+      
+      <h4>Languages</h4>
+      <ul class="language-list">
+        <li><strong>English:</strong> Fluent</li>
+        <li><strong>Swedish:</strong> Fluent</li>
+        <li><strong>Ukrainian:</strong> Fluent</li>
+        <li><strong>Russian:</strong> Fluent</li>
+        <li><strong>Danish:</strong> Conversational</li>
+      </ul>
 
 # About Section
 about_title: About Me
