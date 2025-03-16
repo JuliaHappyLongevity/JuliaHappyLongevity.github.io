@@ -1,0 +1,9 @@
+- name: My Superpowers
+  description: >
+    <ul class="skill-list">
+      <li><strong>Translating Complexity to Clarity</strong> - Transforming technical and operational complexity into clear strategies that stakeholders can understand and embrace</li>
+      <li><strong>Bridging Business and Technology</strong> - Fluent in both business value creation and technical implementation, connecting enterprise needs with appropriate technological solutions</li>
+      <li><strong>Data-Driven Innovation</strong> - Leveraging AI, automation, and analytics to extract meaningful insights that drive strategic decision-making</li>
+      <li><strong>Strategic Execution</strong> - Moving seamlessly from vision to implementation, ensuring measurable impact and results</li>
+      <li><strong>Cross-Functional Leadership</strong> - Building and leading diverse teams across geographical and cultural boundaries</li>
+    </ul>
