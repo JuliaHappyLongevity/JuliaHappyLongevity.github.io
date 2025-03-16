@@ -13,7 +13,7 @@ description: >-
   Digital Transformation Leader and HealthTech Innovator dedicated to democratising 
   health optimisation through AI and data-driven solutions. Founder of HappyLongevity.
 website: https://juliahappylongevity.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://www.happylongevity.life/blog" # the subpath of your site, e.g. /blog
 url: "https://JuliaHappyLongevity.github.io" # the base hostname & protocol
 
 # Build settings
@@ -34,7 +34,7 @@ about_content: |
   extensive personal health optimisation journey, I work to empower everyone to understand their health patterns and
   take early action.
 
-  Through HappyLongevity, AI-Powered Longevity Navigation Platform, we will deliver AI-enabled, data-driven insights and practical solutions that make preventive
+  Through HappyLongevity, AI-Powered Longevity Navigation Platform, we aim to deliver AI-enabled, data-driven insights and practical solutions that make preventive
   health optimisation accessible and understandable for all - because staying healthy shouldn't require a medical degree.
 
 # Dark Mode (true/false/never)
@@ -65,14 +65,21 @@ content:
       - layout: right
         title: Digital Transformation Leadership
         sub_title: Senior Roles in Business Transformation
-        caption: 2005 - Present
+        caption: 2004 - Present
         description: |
-          Leading digital transformation initiatives across multiple industries with a focus on data-driven strategy and implementation.
+          Across my career spanning global finance, technology leadership, and strategic consulting, I've focused on one consistent mission: transforming complex data into actionable insights that solve real problems for people and organizations.
           
-          - Directed strategic planning and execution of multi-million dollar transformation projects
-          - Guided organizations through digital innovation and technology adoption
-          - Implemented data analytics solutions to drive business insights
-          - Built and managed high-performing cross-functional teams
+          ### My Superpowers:
+          
+          * **Translating Complexity to Clarity** - Transforming technical and operational complexity into clear strategies that stakeholders can understand and embrace
+          * **Bridging Business and Technology** - Fluent in both business value creation and technical implementation, connecting enterprise needs with appropriate technological solutions
+          * **Data-Driven Innovation** - Leveraging AI, automation, and analytics to extract meaningful insights that drive strategic decision-making
+          * **Strategic Execution** - Moving seamlessly from vision to implementation, ensuring measurable impact and results
+          * **Cross-Functional Leadership** - Building and leading diverse teams across geographical and cultural boundaries
+          
+          This balanced approach has enabled me to deliver significant business outcomes through technology-driven transformation—from increasing financial visibility across 120+ countries at Maersk, to driving 360% YoY growth in AWS's Nordic financial services, to leading a $200M+ portfolio of cloud and AI implementations at Accenture.
+          
+          My career path evolved naturally from global treasury and financial operations, to digital banking transformation, to cloud and AI implementation leadership—always maintaining a focus on solving intricate business challenges through customer-centric innovation.
 
   - title: Education
     layout: list
