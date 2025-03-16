@@ -1,77 +1,69 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: HappyLongevity Project
 ---
 
-# Happy Longevity Platform
-
-![Happy Longevity](../images/JP_founder.jpeg)
+# HappyLongevity Platform
 
 ## Our Mission
 
-At Happy Longevity, we're dedicated to democratizing health optimization through AI-powered tools that make preventive healthcare accessible and understandable for everyone.
+At HappyLongevity, we're democratising health optimisation by transforming complex health data into clear, actionable insights through AI technology and scientific frameworks. Our mission is to empower everyone to understand their health patterns and take early action - because staying healthy shouldn't require a medical degree.
 
-## The Problem
+## Technical Architecture
 
-Most people have little visibility into their health patterns until problems become serious. Even with access to health data, interpreting this information and knowing what actions to take requires expertise that most don't have.
+We're developing a comprehensive health optimization platform with these key components:
 
-Current approaches to personal health optimization are:
-- Too complex for non-medical professionals
-- Focused on treating rather than preventing
-- Not personalized enough for individual needs
-- Lacking in actionable guidance
+### Data Integration Layer
+- Lab testing results and biomarkers
+- Wearable device data (Oura, Garmin, Apple Watch)
+- Body Composition scans
+- Genetic and epigenetic information
+- Self-reported lifestyle factors
 
-## Our Solution
+### Scientific Framework
+- Structured health domains (Metabolic, Cardiovascular, Cellular, Cognitive, Foundational)
+- Data reliability hierarchy (1-6 scale)
+- Biomarker reference ranges with scientific evidence
+- Genetic variants associated with key health domains 
+- Cross-domain integration for holistic health view
 
-Happy Longevity is an AI-Powered Longevity Navigation Platform that transforms complex health data into clear, actionable insights.
+### AI Analysis Engine
+- Multi-LLM architecture for medical analysis
+- Scientific validation through reference verification
+- Natural language generation for accessible reporting
+- Pattern recognition across health domains
 
-### Key Features:
+### User Experience
+- Personalised health dashboards
+- Early risk detection visualisation
+- Action-oriented recommendations
+- Educational content for health literacy
 
-#### 1. Health Data Integration
-- Connect your wearables, lab tests, and health records
-- Secure, private data processing with user ownership
-- Comprehensive health picture in one interface
+## Technical Challenges We're Solving
 
-#### 2. AI-Powered Analysis
-- Advanced algorithms identify patterns and correlations
-- Personalized health insights based on your unique data
-- Early detection of potential health issues
+1. **Data Integration** - Creating a unified structure for diverse health data sources with privacy and security by design
+2. **Scientific Validation** - Ensuring AI-generated health insights validated by medical research
+3. **Early Risk Detection** - Identifying patterns before they become clinical problems
+4. **Accessibility** - Making complex health data understandable for non-medical users
 
-#### 3. Actionable Recommendations
-- Clear, practical steps to improve health metrics
-- Personalized nutrition, exercise, and lifestyle guidance
-- Science-backed interventions for longevity optimization
+## Development Roadmap
 
-#### 4. Progress Tracking
-- Visual dashboards showing improvements over time
-- Goal setting and achievement tracking
-- Regular updates based on new data
+Our current technical focus is on:
 
-## Technology
+- **MVP Data Structure** - Implementing a scalable framework for health data
+- **LLM Pipeline** - Building and validating our multi-model AI analysis system
+- **Scientific Framework** - Refining our health domains and reference standards
+- **User Experience** - Designing intuitive interfaces for health data visualisation
 
-Our platform combines:
-- Advanced machine learning and AI
-- Evidence-based health science
-- User-friendly interface design
-- Secure data processing
+## Technology Stack
 
-## Timeline
+- **Data Management**: Python, PostgreSQL
+- **AI Implementation**: Claude, GPT-4, Perplexity
+- **Backend**: Python, Flask, Cloud SQL
+- **Cloud Infrastructure**: Google Cloud Platform
 
-- **2023 Q4**: Research and platform design
-- **2024 Q1**: Alpha testing with initial users
-- **2024 Q2**: Beta version launch
-- **2024 Q3**: Public release
+## Join Our Mission
 
-## Get Involved
+We're looking for talented developers and data scientists passionate about health technology to join our mission. If you're interested in contributing to the future of preventive healthcare through AI and data science, please reach out!
 
-We're currently looking for:
-- Early access users for testing
-- Health optimization experts for advisory roles
-- Technology partners for integration opportunities
-
-Contact [julia@happylongevity.life](mailto:julia@happylongevity.life) to learn more about partnership opportunities.
-
----
-
-*Because staying healthy shouldn't require a medical degree.*
+Connect with me on [LinkedIn](https://linkedin.com/in/julia-persson-digital-transformation/) or email julia@happylongevity.life (founder) or lars@flexit.tech (technical co-founder).

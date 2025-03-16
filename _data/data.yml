@@ -1,44 +1,147 @@
-mission_statement: >
-  My mission is to democratize health optimization through AI-powered tools that make preventive 
-  healthcare accessible and understandable for everyone.
+name: Julia Persson
+title: Digital Transformation Leader | HealthTech Innovator | AI-Augmented Venture Designer
+email: julia@happylongevity.life
+phone: "+45 5030 3255 | +46 79 078 4001 (WhatsApp)"
+website: happylongevity.life
+location: Copenhagen, Denmark
 
-key_interests:
-  - AI in Healthcare
-  - Digital Transformation
-  - Preventive Health Optimization
-  - Data-Driven Decision Making
-  - Longevity Science
+# Social Links
+social:
+  - name: LinkedIn
+    icon: fab fa-linkedin
+    url: https://linkedin.com/in/julia-persson-digital-transformation/
+  - name: GitHub
+    icon: fab fa-github
+    url: https://github.com/JuliaHappyLongevity
 
-career_summary: >
-  Across my career spanning global finance, technology leadership, and strategic consulting, 
-  I've focused on one consistent mission: transforming complex data into actionable insights 
-  that solve real problems for people and organizations.
+# Professional Experience
+experience:
+  - role: Founder
+    company: HappyLongevity.Life
+    dates: July 2024 - Present
+    description: |
+      Building a data-driven health optimisation platform, integrating biomarkers, wearables, and AI. Developing scientific validation frameworks, focusing on longevity and preventive healthcare.
+      
+      - Implementing AI-driven health analysis and personalised recommendations
+      - Creating data integration frameworks for biomarkers and wearable devices
+      - Developing digital marketing, SEO strategy, and online community
+      - Building scientific validation protocols with multi-LLM architecture
+
+  - role: Managing Director, Nordic Cloud Financial Services and Health & Public Sector Lead
+    company: Accenture
+    dates: Sep 2021 - March 2025
+    description: |
+      Led regulated industries portfolio (Financial Services, Public Sector & Healthcare) managing cloud adoption, digital transformation and large-scale migrations.
+      
+      - Aligned technology strategies with compliance requirements
+      - Managed global engagements across financial services, healthcare, and public sector
+      - Implemented data-driven decision frameworks for enterprise clients
+
+  - role: Financial Services Lead
+    company: Amazon Web Services (AWS)
+    dates: Feb 2019 - Aug 2021
+    description: |
+      Achieved expanantial growth in Nordic FS through data-driven strategy and cloud adoption.
+      
+      - Led major cloud transformation projects for banks, insurers, and pension providers
+      - Implemented enterprise-scale data and analytics solutions
+      - Developed scalable architectures for regulated industries
+      - Created strategic technology roadmaps for digital transformation
+
+  - role: Head of Cash Management, Large Corporates & Institutions
+    company: Swedbank
+    dates: Apr 2013 - Jan 2019
+    description: |
+      Delivered revenue growth, increasing client engagement through digital innovation.
+      
+      - Led business transformation programmes
+      - Aligned financial services with digital technology
+      - Implemented data-driven client solutions
+      - Optimised operational efficiency through technology
+
+  - role: Deputy Head of Corporate Treasury
+    company: A.P. Moller-Maersk
+    dates: Jan 2007 - Mar 2013
+    description: |
+      Managed global banking operations across 120+ countries, optimising cash management.
+      
+      - Improved liquidity visibility to 87%
+      - Reduced idle cash below 10% during the financial crisis
+      - Implemented global treasury systems
+      - Standardized financial processes across regions
+
+# Education
+education:
+  - degree: MSc in Business & Economics
+    institution: Lund University
+    location: Sweden
+    dates: 
+  - degree: MSc in Business Administration
+    institution: Kyiv National Economic University
+    location: Ukraine
+    dates: 
+
+# Key Skills
+skills:
+  - category: HealthTech & Digital Innovation
+    items:
+      - AI-powered, data-driven health solutions
+      - Preventive healthcare platforms
+      - Health data analytics and integration
+      - Personalised health recommendations
   
-  This balanced approach has enabled me to deliver significant business outcomes through 
-  technology-driven transformation—from increasing financial visibility across 120+ countries 
-  at Maersk, to driving exponential growth in AWS's Nordic financial services, to leading a 
-  enterprise-scale portfolio of cloud and AI implementations at Accenture.
+  - category: Cloud & AI Strategy
+    items:
+      - Cloud infrastructure and architecture
+      - AI implementation and automation
+      - Data-driven decision frameworks
+      - Enterprise digital transformation
   
-  My career path evolved naturally from global treasury and financial operations, to digital 
-  banking transformation, to cloud and AI implementation leadership—always maintaining a focus 
-  on solving intricate business challenges through customer-centric innovation.
+  - category: Business & Leadership
+    items:
+      - Global transformation initiatives
+      - Strategic business execution
+      - Cross-functional team leadership
+      - Change management and implementation
 
-technologies:
-  - name: AI & Machine Learning
-    level: 85
-  - name: Cloud Infrastructure
-    level: 90
-  - name: Data Analytics
-    level: 95
-  - name: Digital Strategy
-    level: 98
-  - name: Process Optimization
-    level: 92
+# Certifications
+certifications:
+  - name: MIT Sloan – Green Cloud & Business Transformation
+  - name: Harvard Business School – Disruptive Strategy & Leadership in Change
+  - name: AWS Cloud Practitioner
+  - name: IMD – Financial Leadership Programme
 
+# Languages
 languages:
-  - name: English
-    level: Native
-  - name: Swedish
+  - language: English
     level: Fluent
-  - name: German
-    level: Professional
+  - language: Swedish
+    level: Fluent
+  - language: Ukrainian
+    level: Fluent
+  - language: Russian
+    level: Fluent
+  - language: Danish
+    level: Conversational
+
+# Projects
+projects:
+  - name: HappyLongevity Platform
+    description: |
+      An AI-powered Longevity Navigation platform integrating biomarkers, genetic data, wearables, and lifestyle factors to provide early health risk detection and personalised recommendations.
+      
+      - Multi-LLM architecture for scientifically validated health analysis
+      - Integration with wearables and lab testing services
+      - Personalised health dashboards and intervention plans
+      - Early risk detection and prevention-focused recommendations
+    link: https://happylongevity.life
+    
+  - name: Nordic Women's Health Hub
+    description: |
+      Co-leading Nordic Women's Health Vision 2040, a volunteer initiative to improve women's health outcomes through technology, education, and policy.
+    voluntary: true
+
+  - name: ReDI School of Digital Integration
+    description: |
+      Teaching technology fundamentals to women from foreign backgrounds, empowering them with digital skills for career advancement.
+    voluntary: true
