@@ -98,13 +98,13 @@ content:
           - Implemented global treasury systems
           - Standardized financial processes across regions
           
-  - title: Projects
+  - title: Current Projects
     layout: list
     content:
       - layout: left
         title: HappyLongevity Platform
-        link: https://happylongevity.life
-        link_text: HappyLongevity.life
+        link: https://juliahappylongevity.github.io/projects/
+        link_text: View Platform Details
         additional_links:
           - title: JuliaHappyLongevity/JuliaHappyLongevity.github.io
             icon: fab fa-github
@@ -118,15 +118,9 @@ content:
           - Scientific Validation - Rigorous frameworks based on medical research
           - AI-Powered Analysis - Multi-LLM architecture for reliable health insights
           - Data Integration - Biomarkers, genetics, wearables, and lifestyle
-          - Personalized Recommendations - Tailored health optimisation strategies
+          - Personalized Recommendations - Tailored health optimization strategies
           - Early Risk Detection - Identifying patterns before they become problems
           
-          **Technology Focus:**
-          - Data Integration Frameworks - Connecting diverse health data sources
-          - AI Model Validation - Ensuring scientific accuracy in health analysis
-          - Cloud-Based Architecture - Scalable, secure healthcare solutions
-          - User Experience Design - Making complex health data understandable
-      
       - layout: left
         title: Nordic Women's Health Hub
         quote: >
