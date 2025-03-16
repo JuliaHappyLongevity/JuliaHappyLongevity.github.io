@@ -25,18 +25,15 @@ remote_theme: sproogen/modern-resume-theme
 github_username: JuliaHappyLongevity
 linkedin_username: julia-persson-digital-transformation
 
-# Site navigation
-header_pages:
-  - about.md
-  - projects.md
-  - join-us/index.md
+# Phone info
+phone: "+45 5030 3255 | +46 79 078 4001 (WhatsApp)"
 
 # Content sections
 content:
   - title: Experience
     layout: list
     content:
-      - layout: left
+      - layout: right
         title: HappyLongevity.Life
         sub_title: Founder
         caption: July 2024 - Present
@@ -49,7 +46,7 @@ content:
           - Developing digital marketing, SEO strategy, and online community
           - Building scientific validation protocols with multi-LLM architecture
           
-      - layout: left
+      - layout: right
         title: Accenture
         sub_title: Managing Director, Nordic Cloud Financial Services and Health & Public Sector Lead
         caption: Sep 2021 - March 2025
@@ -61,7 +58,7 @@ content:
           - Managed global engagements across financial services, healthcare, and public sector
           - Implemented data-driven decision frameworks for enterprise clients
           
-      - layout: left
+      - layout: right
         title: Amazon Web Services (AWS)
         sub_title: Financial Services Lead
         caption: Feb 2019 - Aug 2021
@@ -74,7 +71,7 @@ content:
           - Developed scalable architectures for regulated industries
           - Created strategic technology roadmaps for digital transformation
           
-      - layout: left
+      - layout: right
         title: Swedbank
         sub_title: Head of Cash Management, Large Corporates & Institutions
         caption: Apr 2013 - Jan 2019
@@ -87,7 +84,7 @@ content:
           - Implemented data-driven client solutions
           - Optimized operational efficiency through technology
           
-      - layout: left
+      - layout: right
         title: A.P. Moller-Maersk
         sub_title: Deputy Head of Corporate Treasury
         caption: Jan 2007 - Mar 2013
