@@ -6,7 +6,7 @@
           <img src="{{ item.logo }}" alt="{{ item.title }} Logo" style="max-width: 50px;">
         </div>
       {% endif %}
-      <h4 id="{{ item.title | slugify }}" {% if include.section_title == "Current Projects" %}style="font-size: 0.75rem; margin-top: 0.5rem;"{% endif %}>{{ item.title }}</h4>
+      <h4 id="{{ item.title | slugify }}">{{ item.title }}</h4>
       {%- if item.sub_title -%}<p><b>{{ item.sub_title }}</b></p>{%- endif -%}
       {%- if item.caption -%}<p>{{ item.caption }}</p>{%- endif -%}
 
