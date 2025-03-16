@@ -5,6 +5,23 @@
 
   <title>{{ site.name }} | {{ site.title }}</title>
   <meta name="description" content="{{ site.description }}">
+  
+  <!-- SEO Meta Tags -->
+  <meta name="keywords" content="data science, machine learning, AI, artificial intelligence, health optimization, longevity, predictive analytics, biomarker data, healthcare technology, bioinformatics, health data, healthtech, deep learning, data-driven insights, personalized health, wellness technology, preventive health, data engineering, health analytics">
+  <meta name="author" content="{{ site.name }}">
+  
+  <!-- Open Graph Meta Tags for Social Media -->
+  <meta property="og:title" content="{{ site.name }} | {{ site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:image" content="{{ site.url }}{{ site.about_profile_image }}">
+  <meta property="og:url" content="{{ site.url }}">
+  <meta property="og:type" content="website">
+  
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ site.name }} | {{ site.title }}">
+  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:image" content="{{ site.url }}{{ site.about_profile_image }}">
 
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | default: '/assets/favicon.ico' | relative_url }}">

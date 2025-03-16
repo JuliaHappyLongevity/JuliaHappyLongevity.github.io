@@ -7,11 +7,13 @@ version: 1
 
 # Personal info
 name: Julia Persson
-title: Digital Transformation Leader | HealthTech Innovator | AI-Augmented Venture Designer
+title: AI & Data Science Leader | HealthTech Innovator | Longevity Platform Founder
 email: julia@happylongevity.life
 description: >- 
-  Digital Transformation Leader and HealthTech Innovator dedicated to democratising 
-  health optimisation through AI and data-driven solutions. Founder of HappyLongevity.
+  Building an AI-powered health optimization platform seeking exceptional data scientists and ML engineers.
+  We're leveraging advanced analytics, deep learning, and predictive modeling to transform biomarker data
+  into personalized health insights and actionable recommendations. Join our mission to democratize
+  longevity science through innovative data approaches.
 website: https://juliahappylongevity.github.io
 baseurl: ""
 url: "https://juliahappylongevity.github.io"
@@ -26,6 +28,7 @@ linkedin_username: julia-persson-digital-transformation
 # Site navigation
 header_pages:
   - projects.md
+  - join-us/index.md
 
 # About Section
 about_title: About Me
@@ -45,7 +48,7 @@ about_content: |
 darkmode: false
 
 # Google Analytics
-google_analytics: G-XXXXXXXXXX  # Replace with your actual Google Analytics ID
+google_analytics: G-EMBYLELM4B  # Replace with your actual Google Analytics ID
 
 # Footer
 footer_show_references: true

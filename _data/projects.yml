@@ -2,9 +2,19 @@
   link: https://happylongevity.life
   github: JuliaHappyLongevity/JuliaHappyLongevity.github.io
   quote: >
-    AI-Powered Longevity Navigation Platform
+    AI-Powered Longevity Navigation Platform - Seeking Data Science Talent
   description: >
-    Building an AI-powered platform that transforms complex health data into clear, actionable insights.
+    We're building a sophisticated AI platform that leverages machine learning, neural networks, and predictive analytics
+    to transform complex biomarker and health data into personalized insights.
     <br><br>
-    Our platform uses AI technology and scientific frameworks to make preventive health optimization accessible 
-    and understandable for all - because staying healthy shouldn't require a medical degree.
+    <strong>Technical Stack:</strong>
+    <ul>
+      <li><strong>Data Engineering:</strong> Python, SQL, NoSQL, ETL pipelines</li>
+      <li><strong>Machine Learning:</strong> TensorFlow, PyTorch, scikit-learn</li>
+      <li><strong>Analytics:</strong> R, pandas, NumPy, data visualization</li>
+      <li><strong>Cloud Infrastructure:</strong> AWS, containerization, microservices</li>
+      <li><strong>Version Control:</strong> Git, CI/CD pipelines</li>
+    </ul>
+    <br>
+    <strong>Looking For:</strong> Data Scientists, ML Engineers, and Bioinformaticians passionate about
+    applying advanced analytics to healthcare challenges.
