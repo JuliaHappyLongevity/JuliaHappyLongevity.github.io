@@ -44,6 +44,9 @@ about_content: |
 # Dark Mode (true/false/never)
 darkmode: false
 
+# Google Analytics
+google_analytics: G-XXXXXXXXXX  # Replace with your actual Google Analytics ID
+
 # Footer
 footer_show_references: true
 references_title: References on request
