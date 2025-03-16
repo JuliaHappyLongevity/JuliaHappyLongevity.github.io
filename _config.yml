@@ -9,7 +9,6 @@ version: 2
 name: Julia Persson
 title: Digital Transformation Leader | HealthTech Innovator | AI-Augmented Venture Designer
 email: julia@happylongevity.life
-phone: "+45 5030 3255 | +46 79 078 4001 (WhatsApp)"
 website: https://happylongevity.life
 description: >- 
   Digital Transformation Leader and HealthTech Innovator dedicated to democratizing 
@@ -20,9 +19,16 @@ baseurl: ""
 # Build settings
 remote_theme: sproogen/modern-resume-theme
 
+# Navigation
+header_pages:
+  - projects.md
+
 # Social links
 github_username: JuliaHappyLongevity
 linkedin_username: julia-persson-digital-transformation
+
+# Phone info
+phone: "+45 5030 3255 | +46 79 078 4001 (WhatsApp)"
 
 # Content sections
 content:
@@ -109,10 +115,18 @@ content:
         description: |
           An AI-powered Longevity Navigation platform integrating biomarkers, genetic data, wearables, and lifestyle factors to provide early health risk detection and personalized recommendations.
           
-          - Multi-LLM architecture for scientifically validated health analysis
-          - Integration with wearables and lab testing services
-          - Personalized health dashboards and intervention plans
-          - Early risk detection and prevention-focused recommendations
+          **Our Approach:**
+          - Scientific Validation - Rigorous frameworks based on medical research
+          - AI-Powered Analysis - Multi-LLM architecture for reliable health insights
+          - Data Integration - Biomarkers, genetics, wearables, and lifestyle
+          - Personalized Recommendations - Tailored health optimization strategies
+          - Early Risk Detection - Identifying patterns before they become problems
+          
+          **Technology Focus:**
+          - Data Integration Frameworks - Connecting diverse health data sources
+          - AI Model Validation - Ensuring scientific accuracy in health analysis
+          - Cloud-Based Architecture - Scalable, secure healthcare solutions
+          - User Experience Design - Making complex health data understandable
       
       - layout: left
         title: Nordic Women's Health Hub
@@ -131,42 +145,9 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Lund University
-        sub_title: MSc in Business & Economics
-        caption: Sweden
-      
-      - layout: top-right
-        title: Kyiv National Economic University
-        sub_title: MSc in Business Administration
-        caption: Ukraine
-          
-  - title: Skills
-    layout: text
-    content: |
-      <h4>HealthTech & Digital Innovation</h4>
-      <ul class="skill-list">
-        <li>AI-powered, data-driven health solutions</li>
-        <li>Preventive healthcare platforms</li>
-        <li>Health data analytics and integration</li>
-        <li>Personalized health recommendations</li>
-      </ul>
-      
-      <h4>Cloud & AI Strategy</h4>
-      <ul class="skill-list">
-        <li>Cloud infrastructure and architecture</li>
-        <li>AI implementation and automation</li>
-        <li>Data-driven decision frameworks</li>
-        <li>Enterprise digital transformation</li>
-      </ul>
-      
-      <h4>Business & Leadership</h4>
-      <ul class="skill-list">
-        <li>Global transformation initiatives</li>
-        <li>Strategic business execution</li>
-        <li>Cross-functional team leadership</li>
-        <li>Change management and implementation</li>
-      </ul>
+      - layout: right
+        title: Lund University & Kyiv National Economic University
+        sub_title: MSc in Business & Economics, MSc in Business Administration
       
   - title: Certifications & Languages
     layout: text
@@ -192,24 +173,8 @@ content:
 about_title: About Me
 about_profile_image: /images/JP_founder.jpeg
 about_content: | 
-  **Democratizing health optimization through AI and data-driven insights**
-
-  At HappyLongevity, we're building an AI-powered platform that makes preventive health accessible to everyone. By transforming complex health data into clear, actionable insights, we empower individuals to understand their health patterns and take early action - because staying healthy shouldn't require a medical degree.
-
-  ### Our Approach
-
-  - **Scientific Validation** - Rigorous frameworks based on medical research
-  - **AI-Powered Analysis** - Multi-LLM architecture for reliable health insights
-  - **Data Integration** - Biomarkers, genetics, wearables, and lifestyle
-  - **Personalized Recommendations** - Tailored health optimization strategies
-  - **Early Risk Detection** - Identifying patterns before they become problems
-
-  ### Technology Focus
-
-  - **Data Integration Frameworks** - Connecting diverse health data sources
-  - **AI Model Validation** - Ensuring scientific accuracy in health analysis
-  - **Cloud-Based Architecture** - Scalable, secure healthcare solutions
-  - **User Experience Design** - Making complex health data understandable
+  Digital Transformation Leader and HealthTech Innovator dedicated to democratizing 
+  health optimization through AI and data-driven solutions. Founder of HappyLongevity.
 
 # Dark Mode (true/false/never)
 darkmode: false
