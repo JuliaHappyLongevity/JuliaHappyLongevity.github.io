@@ -10,9 +10,11 @@
       {%- if item.sub_title -%}<p><b>{{ item.sub_title }}</b></p>{%- endif -%}
       {%- if item.caption -%}<p>{{ item.caption }}</p>{%- endif -%}
 
-      {% comment %}
-      We've removed the link display to simplify the layout
-      {% endcomment %}
+      {%- if item.link -%}
+        {% include a.html href=item.link class="link" %}
+          {%- if item.link_text -%}{{ item.link_text }}{%- else -%}{{ item.link }}{%- endif -%}
+        </a>
+      {%- endif -%}
 
       <p class="no-print aditional-links">
         {% for link in item.additional_links %}
