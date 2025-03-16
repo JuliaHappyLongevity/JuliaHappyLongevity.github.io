@@ -103,7 +103,7 @@ content:
     content:
       - layout: left
         title: <div style="text-align: center; margin-bottom: 15px;"><img src="/images/HL_logo.png" alt="HappyLongevity Logo" style="max-width: 250px;"></div>HappyLongevity Platform
-        link: https://juliahappylongevity.github.io/projects/
+        link: https://juliahappylongevity.github.io/project/
         link_text: View Platform Details
         additional_links:
           - title: JuliaHappyLongevity/JuliaHappyLongevity.github.io
@@ -112,13 +112,13 @@ content:
         quote: >
           Seeking Data Science Talent & Bioscience researchers for collaboration
         description: |
-          An AI-powered Longevity Navigation platform integrating biomarkers, genetic data, wearables, body composition scans, family medical history and lifestyle factors to provide early health risk detection and personalised recommendations.
+          An AI-powered Longevity Navigation platform integrating biomarkers, genetic data, wearables, body composition scans, family medical history and lifestyle factors to provide early health risk detection and personalized recommendations.
           
           **Our Approach:**
           - Scientific Validation - Rigorous frameworks based on medical research
           - AI-Powered Analysis - Multi-LLM architecture for reliable health insights
           - Data Integration & Security - Creating a unified structure for diverse health data sources with privacy and security by design
-          - Personalised Recommendations - Tailored health optimisation strategies
+          - Personalized Recommendations - Tailored health optimization strategies
           - Early Risk Detection - Identifying patterns before they become problems
           
       - layout: left
