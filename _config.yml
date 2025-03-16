@@ -27,9 +27,9 @@ linkedin_username: julia-persson-digital-transformation
 
 # Site navigation
 header_pages:
+  - about.md
   - projects.md
   - join-us/index.md
-  - about.md
 
 # Content sections
 content:

@@ -7,7 +7,7 @@ title: HappyLongevity Project
 
 ## Our Mission
 
-At HappyLongevity, we're democratising health optimisation by transforming complex health data into clear, actionable insights through AI technology and scientific frameworks. Our mission is to empower everyone to understand their health patterns and take early action - because staying healthy shouldn't require a medical degree.
+At HappyLongevity, we're democratizing health optimization by transforming complex health data into clear, actionable insights through AI technology and scientific frameworks. Our mission is to empower everyone to understand their health patterns and take early action - because staying healthy shouldn't require a medical degree.
 
 ## Technical Architecture
 
@@ -34,8 +34,8 @@ We're developing a comprehensive health optimization platform with these key com
 - Pattern recognition across health domains
 
 ### User Experience
-- Personalised health dashboards
-- Early risk detection visualisation
+- Personalized health dashboards
+- Early risk detection visualization
 - Action-oriented recommendations
 - Educational content for health literacy
 
@@ -53,7 +53,7 @@ Our current technical focus is on:
 - **MVP Data Structure** - Implementing a scalable framework for health data
 - **LLM Pipeline** - Building and validating our multi-model AI analysis system
 - **Scientific Framework** - Refining our health domains and reference standards
-- **User Experience** - Designing intuitive interfaces for health data visualisation
+- **User Experience** - Designing intuitive interfaces for health data visualization
 
 ## Technology Stack
 
@@ -66,4 +66,4 @@ Our current technical focus is on:
 
 We're looking for talented developers and data scientists passionate about health technology to join our mission. If you're interested in contributing to the future of preventive healthcare through AI and data science, please reach out!
 
-Connect with me on [LinkedIn](https://linkedin.com/in/julia-persson-digital-transformation/) or email julia@happylongevity.life (founder) or lars@flexit.tech (technical co-founder).
+Connect with me on [LinkedIn](https://linkedin.com/in/julia-persson-digital-transformation/) or email [julia@happylongevity.life](mailto:julia@happylongevity.life) (founder).
