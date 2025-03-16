@@ -112,13 +112,13 @@ content:
         quote: >
           Seeking Data Science Talent & Bioscience researchers for collaboration
         description: |
-          An AI-powered Longevity Navigation platform integrating biomarkers, genetic data, wearables, body composition scans, family medical history and lifestyle factors to provide early health risk detection and personalized recommendations.
+          An AI-powered Longevity Navigation platform integrating biomarkers, genetic data, wearables, body composition scans, family medical history and lifestyle factors to provide early health risk detection and personalised recommendations.
           
           **Our Approach:**
           - Scientific Validation - Rigorous frameworks based on medical research
           - AI-Powered Analysis - Multi-LLM architecture for reliable health insights
-          - Data Integration - Biomarkers, genetics, wearables, and lifestyle
-          - Personalized Recommendations - Tailored health optimization strategies
+          - Data Integration & Security - Creating a unified structure for diverse health data sources with privacy and security by design
+          - Personalised Recommendations - Tailored health optimisation strategies
           - Early Risk Detection - Identifying patterns before they become problems
           
       - layout: left
