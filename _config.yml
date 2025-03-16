@@ -23,6 +23,10 @@ remote_theme: sproogen/modern-resume-theme
 github_username: JuliaHappyLongevity
 linkedin_username: julia-persson-digital-transformation
 
+# Site navigation
+header_pages:
+  - projects.md
+
 # About Section
 about_title: About Me
 about_profile_image: /images/JP_founder.jpeg

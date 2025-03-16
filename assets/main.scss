@@ -12,3 +12,49 @@
 
 // Dark Mode
 @import "dark";
+
+// Custom Styles
+.page-container {
+  padding: 3rem 0;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.page-title {
+  color: #3498db;
+  margin-bottom: 2rem;
+  border-bottom: 3px solid #3498db;
+  padding-bottom: 0.5rem;
+}
+
+.page-content {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  
+  h2 {
+    color: #2980b9;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  h3 {
+    color: #2c3e50;
+    margin-top: 1.5rem;
+  }
+  
+  h4 {
+    color: #34495e;
+    margin-top: 1.2rem;
+  }
+  
+  ul, ol {
+    margin-left: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin: 1.5rem 0;
+  }
+}
